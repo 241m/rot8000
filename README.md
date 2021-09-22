@@ -21,4 +21,6 @@ func main() {
 ## Prior art
 
 [rottytooth/rot8000](https://github.com/rottytooth/rot8000) - original
-C#/Javascript implementation (unknown license)
+C#/Javascript implementation.
+
+[bits/UTF-8-Unicode-Test-Documents](https://github.com/bits/UTF-8-Unicode-Test-Documents) - Unicode BMP test file.
